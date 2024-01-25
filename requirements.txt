@@ -1,0 +1,4 @@
+robotframework
+robotframework-selenium2library
+webdrivermanager
+selenium~=4.9.0
